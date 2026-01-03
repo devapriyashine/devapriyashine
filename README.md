@@ -30,6 +30,14 @@ Focused on learning, consistency, and long-term growth.
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/>
 </p>
 </p>
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devapriyashine&show_icons=true&theme=tokyonight)
+
+## 🔥 Contribution Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=devapriyashine&theme=dark)
+
+## 🧠 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devapriyashine&layout=compact&theme=tokyonight)
 
 
 
